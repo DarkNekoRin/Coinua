@@ -10,4 +10,9 @@ La mayoria del grupo eligio realizar un CrowFounding por lo cual empeze realizan
 ![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/Recorrido00.PNG?raw=true)
 
 
-# B A C K G R O U N D
+# A P R E N D I D O
+
+No todo debe estar maqueteado. No es importante concentrarte en Login o Perfil. Solo en funcionalidades escenciales
+Los colores deberian ser mas acorde a la empresa que lidera la Hackathon. Nosotros escogimos un color rojo (pero este tambien es utilizado por otra entidad Finaciera) lo cual fue una mala jugada + el UI se ve muy fuerte
+La iconografia de Poner Quinuas que parecieran nodos interconectadose fue una idea genial
+
