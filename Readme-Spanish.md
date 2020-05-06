@@ -24,7 +24,9 @@ La mayoria del grupo eligio realizar un CrowFounding por lo cual empeze realizan
 ## I D E A - D E - N E G O C I O 🚀  
 
 Quisimos hacer CrowdLending con Gamification. 
-Promover a personas que deseen prestar plata y que jueguen con el riesgo a gente que la necesita. 
+
+La idea era promover el prestamo comunitario, uno a uno. Sin que el banco preste su dinero (P2P). Que una persona que tenga un capital que quiera invertir con mayor interes darselo a alguien que necesite pero que pueda pagar. Nos inspiramos de la informalidad de prestamos que existen en el pais. Estos sistemas tienen un alto tasa de interes, y no esta supervisado por ningun banco
+
 Queriamos mantener el anonimato en ambas partes, pero consientizar al prestador mostrandole el Score del Sistema Financiero de quien piensa prestar + un comentario emotivo del prestador. 
 
 Internamente, si hay algun problema de cobro o riesgo mayor el banco podria intervenir si se le da un porcentaje del recupero. 
