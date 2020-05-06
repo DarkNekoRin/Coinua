@@ -35,3 +35,7 @@ _Me encargue de:_
 * _Aterrizar la idea de negocio_
 * _Construccion del maqueteado (HTML + CSS)_
 * _Definir mecanica de Gamification_
+
+## D E S I G N   
+* Graphic Designer - [Joyce Fernandez](https://www.behance.net/J-Sokei)
+* Graphic Designer - [Luis Bedoya](https://www.behance.net/BeddamaLuis)
