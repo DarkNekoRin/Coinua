@@ -1,13 +1,13 @@
 # C O I N U A
 
 Esta fue de las primeras Hackathones a las cuales participe. 
-Fue Sponsoreada por BCP y Bellatrix en Junio del 2018 en Lima, Peru
-
+Fue Sponsoreada por BCP y Bellatrix en Junio del 2018 en Lima, Peru y fue llamada Hackatrix
+Coinua era un app de CrowdFounding o una red de financiación colectiva
 
 ## B A C K G R O U N D 🚀  
 
 Lo primero que planteamos para poder poner la idea de negocio fueron dos ideas:
-Consejero Financiero con IA vs CrowFounding
+Consejero Financiero con IA vs CrowdFounding
 
 La mayoria del grupo eligio realizar un CrowFounding por lo cual empeze realizando los pantallazos en bocetos. 
 ![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/Recorrido00.PNG?raw=true)
@@ -19,3 +19,7 @@ No todo debe estar maqueteado. No es importante concentrarte en Login o Perfil. 
 Los colores deberian ser mas acorde a la empresa que lidera la Hackathon. Nosotros escogimos un color rojo (pero este tambien es utilizado por otra entidad Finaciera) lo cual fue una mala jugada + el UI se ve muy fuerte
 La iconografia de Poner Quinuas que parecieran nodos interconectadose fue una idea genial
 
+
+## P O S I C I O N  🛠️
+
+_Me encargue de aterrizar la idea de negocio y adicionalmente la construccion del maqueteado (HTML + CSS) _
