@@ -24,7 +24,7 @@ Most of the group chose to carry out a CrowFounding, so I started making the ske
 ![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/Recorrido00.PNG?raw=true)
 
 
-## I D E A - D E - N E G O C I O 🚀  
+## B U S I N E S S - I D E A 🚀  
 
 We wanted to do a CrowdLending App with Gamification mechanics.
 
@@ -35,7 +35,7 @@ We wanted to maintain anonymity on both sides, but make the lender aware the ris
 If there is any problem or higher risk, the bank could intervene if it is given a percentage of the recovery. 
 ![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/coinua.PNG?raw=true)
 
-# A P R E N D I D O 📌
+# L E A R N E D  📌
 
 * The putting Quinoas iconography that looked like interconnected nodes (P2P) was a great idea
 * Not everything have been done. It is not important to focus on Login or Profile in a Hackathon. Only the essential functionalities
