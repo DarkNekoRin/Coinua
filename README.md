@@ -13,13 +13,25 @@ La mayoria del grupo eligio realizar un CrowFounding por lo cual empeze realizan
 ![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/Recorrido00.PNG?raw=true)
 
 
+## I D E A - D E - N E G O C I O 🚀  
+
+Quisimos hacer CrowdLending con Gamification. 
+Promover a personas que deseen prestar plata y que jueguen con el riesgo a gente que la necesita. 
+Queriamos mantener el anonimato en ambas partes, pero consientizar al prestador mostrandole el Score del Sistema Financiero de quien piensa prestar + un comentario emotivo del prestador. 
+
+Internamente, si hay algun problema de cobro o riesgo mayor el banco podria intervenir si se le da un porcentaje del recupero. 
+
+
 # A P R E N D I D O 📌
 
-No todo debe estar maqueteado. No es importante concentrarte en Login o Perfil. Solo en funcionalidades escenciales
-Los colores deberian ser mas acorde a la empresa que lidera la Hackathon. Nosotros escogimos un color rojo (pero este tambien es utilizado por otra entidad Finaciera) lo cual fue una mala jugada + el UI se ve muy fuerte
-La iconografia de Poner Quinuas que parecieran nodos interconectadose fue una idea genial
+* No todo debe estar maqueteado. No es importante concentrarte en Login o Perfil. Solo en funcionalidades escenciales
+* Los colores deberian ser mas acorde a la empresa que lidera la Hackathon. Nosotros escogimos un color rojo (pero este tambien es utilizado por otra entidad Finaciera) lo cual fue una mala jugada + el UI se ve muy fuerte
+* La iconografia de Poner Quinuas que parecieran nodos interconectadose fue una idea genial
 
 
 ## P O S I C I O N  🛠️
 
-_Me encargue de aterrizar la idea de negocio y adicionalmente la construccion del maqueteado (HTML + CSS) _
+_Me encargue de:_
+* _Aterrizar la idea de negocio_
+* _Construccion del maqueteado (HTML + CSS)_
+* _Definir mecanica de Gamification_
