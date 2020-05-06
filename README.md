@@ -21,6 +21,7 @@ Queriamos mantener el anonimato en ambas partes, pero consientizar al prestador 
 
 Internamente, si hay algun problema de cobro o riesgo mayor el banco podria intervenir si se le da un porcentaje del recupero. 
 
+![alt text](https://github.com/DarkNekoRin/Coinua/blob/master/img/coinua.PNG?raw=true)
 
 # A P R E N D I D O 📌
 
